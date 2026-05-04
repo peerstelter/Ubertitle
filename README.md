@@ -43,4 +43,4 @@ Live im Einsatz am Stadttheater Gießen. Getestet unter Produktionsbedingungen �
 
 ---
 
-**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peer-stelter-88371827b)
+**[peerstelter.de](https://peerstelter.de)** · [LinkedIn](https://www.linkedin.com/in/peerstelter/)
