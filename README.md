@@ -39,7 +39,7 @@ Live im Einsatz am Stadttheater Gießen. Getestet unter Produktionsbedingungen �
 ![Status](https://img.shields.io/badge/Status-Live%20im%20Betrieb-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/Lizenz-Proprietär-red?style=flat)
 
-> Quellcode ist nicht öffentlich. Bei Interesse an einer Lizenz oder einem individuellen Deployment: [peer@peerstelter.de](mailto:peer@peerstelter.de)
+> Quellcode ist nicht öffentlich. Bei Interesse an einer Lizenz oder einem individuellen Deployment: [info@peerstelter.de](mailto:info@peerstelter.de)
 
 ---
 
